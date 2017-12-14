@@ -137,6 +137,5 @@
     .wizard li.active:after {
         content: " ";
         position: absolute;
-        left: 35%;
     }
 }
